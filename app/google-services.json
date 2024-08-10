@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444433394089",
+    "project_id": "weewear-a9078",
+    "storage_bucket": "weewear-a9078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444433394089:android:32e8191b785793b840bcb8",
+        "android_client_info": {
+          "package_name": "com.example.weewear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApPZB9q5uMY0WpjcdZe66vW_BuiwxmwPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
