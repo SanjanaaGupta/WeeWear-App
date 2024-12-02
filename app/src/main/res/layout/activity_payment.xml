@@ -130,7 +130,7 @@
         android:layout_marginTop="44dp"
         android:text="Check Out"
         android:textStyle="bold"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/system_palette_key_color_secondary_dark"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.504"
         app:layout_constraintStart_toStartOf="parent"
